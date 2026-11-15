@@ -9,3 +9,17 @@
 5. **Bước 5:** Mở thêm một tab terminal tại thư mục frontend và chạy lệnh:
    ```bash
    npm start
+Bước 6: Mở trình duyệt web và tiến hành đăng nhập với các tài khoản tương ứng:
+
+👥 Thông tin tài khoản mặc định:
+Tài khoản khách hàng:
+
+Tên đăng nhập: Pho123
+
+Mật khẩu: Abc@123
+
+Tài khoản Admin:
+
+Tên đăng nhập: admin
+
+Mật khẩu: admin123
